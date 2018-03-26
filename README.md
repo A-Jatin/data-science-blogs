@@ -66,6 +66,7 @@ A curated list of data science blogs
 * Eric Siegel http://www.predictiveanalyticsworld.com/blog [(RSS)] (http://feeds.feedburner.com/predictiveanalyticsworld/GXRy)
 * Erik Bern http://erikbern.com [(RSS)] (http://erikbern.com/feed/)
 * ERIN SHELLMAN http://www.erinshellman.com/ [(RSS)] (http://www.erinshellman.com/feed/)
+* Everything AI : Jatin Ahuja http://www.everythingai.co.in/ 
 * Fabian Pedregosa http://fa.bianp.net/ [(RSS)] (http://fa.bianp.net/blog/feed/)
 * Fast Forward Labs http://blog.fastforwardlabs.com/ [(RSS)] (http://blog.fastforwardlabs.com/rss)
 * FastML http://fastml.com/ [(RSS)] (http://fastml.com/atom.xml)
